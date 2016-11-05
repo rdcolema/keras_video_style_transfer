@@ -1,6 +1,12 @@
 from __future__ import division
 from scipy.misc import imread, imresize, imsave, fromimage, toimage, imrotate
 from scipy.optimize import fmin_l_bfgs_b
+import matplotlib.pyplot as plt 
+import matplotlib.animation as animation
+import matplotlib.image as mgimg
+import numpy as np
+import cv2
+from moviepy.editor import *
 import numpy as np
 import time
 from keras.models import Sequential
