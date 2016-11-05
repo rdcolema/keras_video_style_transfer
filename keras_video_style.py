@@ -4,8 +4,6 @@ from scipy.optimize import fmin_l_bfgs_b
 import matplotlib.pyplot as plt 
 import matplotlib.animation as animation
 import matplotlib.image as mgimg
-import numpy as np
-import cv2
 from moviepy.editor import *
 import numpy as np
 import time
@@ -13,7 +11,6 @@ from keras.models import Sequential
 from keras.layers.convolutional import Convolution2D, AveragePooling2D, MaxPooling2D
 from keras import backend as K
 from keras.utils.data_utils import get_file
-import os
 
 
 # pretrained models to load
