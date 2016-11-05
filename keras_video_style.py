@@ -11,6 +11,7 @@ from keras.models import Sequential
 from keras.layers.convolutional import Convolution2D, AveragePooling2D, MaxPooling2D
 from keras import backend as K
 from keras.utils.data_utils import get_file
+import os
 
 
 # pretrained models to load
