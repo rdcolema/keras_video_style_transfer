@@ -24,7 +24,7 @@ TF_WEIGHTS_PATH_NO_TOP = 'https://github.com/fchollet/deep-learning-models/relea
 base_image_path = './videos/input/'
 style_reference_image_path = "./images/inputs/style/example_style_image.jpg"
 img_output_dir = './videos/output/'
-video_output_dir = './videos/output/saved_results'
+video_output_dir = './videos/output/saved_results/'
 result_prefix = "result"
 
 # hyperparameters
