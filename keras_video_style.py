@@ -350,7 +350,7 @@ def animate_styled_ims(styled_im_dir, output_dir, size=(img_height, img_width)):
         return imobj,
 
     def animate(i):
-        fname = im_root + "result_{0}.png".format(i)
+        fname = styled_im_dir + "result_{0}.png".format(i)
         img = mgimg.imread(fname)
         imobj.set_data(img)
         return imobj,
