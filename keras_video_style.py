@@ -15,10 +15,10 @@ THEANO_WEIGHTS_PATH_NO_TOP = 'https://github.com/fchollet/deep-learning-models/r
 TF_WEIGHTS_PATH_NO_TOP = 'https://github.com/fchollet/deep-learning-models/releases/download/v0.1/vgg16_weights_tf_dim_ordering_tf_kernels_notop.h5'
 
 # content, style, and result image info
-base_image_path = 'C:/Projects/playground/neural_style_transfer/videos/input/'
-style_reference_image_path = "C:/Projects/playground/neural_style_transfer/images/inputs/style/japanese_painting.jpg"
-img_output_dir = 'C:/Projects/playground/neural_style_transfer/videos/output/'
-video_output_dir = 'C:/Projects/playground/neural_style_transfer/videos/output/saved_results'
+base_image_path = './videos/input/'
+style_reference_image_path = "./images/inputs/style/example_style_image.jpg"
+img_output_dir = './videos/output/'
+video_output_dir = './videos/output/saved_results'
 result_prefix = "result"
 
 # hyperparameters
