@@ -19,3 +19,8 @@
 <li>Requires individual frames of the video to be styled placed in the <em>base_image_path</em> directory and labeled appropriately before running. Then run <em>keras_video_style.py</em>.</li>
 </ul>
 
+<h3>Example Output</h3>
+<img width=20% src="https://github.com/rdcolema/keras-neural-style-transfer/blob/master/examples/style_images/fire.jpg" />
+![](https://giphy.com/gifs/fire-hands-l2JhKzaLNGuSqqZXO)
+
+
