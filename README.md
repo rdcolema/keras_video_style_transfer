@@ -23,4 +23,5 @@
 <img width=20% src="https://github.com/rdcolema/keras-neural-style-transfer/blob/master/examples/style_images/fire.jpg" />
 ![](media.giphy.com/media/l2JhKzaLNGuSqqZXO/source.gif)
 
+<img src="https://media.giphy.com/media/l2JhKzaLNGuSqqZXO/source.gif" />
 
