@@ -21,7 +21,5 @@
 
 <h3>Example Output</h3>
 <img width=20% src="https://github.com/rdcolema/keras-neural-style-transfer/blob/master/examples/style_images/fire.jpg" />
-![](media.giphy.com/media/l2JhKzaLNGuSqqZXO/source.gif)
-
-<img src="https://media.giphy.com/media/l2JhKzaLNGuSqqZXO/source.gif" />
+<img src="https://media.giphy.com/media/3oriNToEUkHp6F8N7W/source.gif" />
 
