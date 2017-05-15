@@ -328,7 +328,7 @@ def stylize(frame_num, content_img):
         end_time = time.time()
         print "Iteration %d completed in %ds" % (i + 1, end_time - start_time)
 
-    img = imrotate(img, angle=-90)   # some imagres are rotated 90 degrees in process -- comment this out if they aren't
+    img = imrotate(img, angle=-90)   # some images are rotated 90 degrees in process
     imsave(fname, img)
     print "Image saved as", fname
 
