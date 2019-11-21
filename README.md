@@ -25,7 +25,3 @@ Style            |  Result
 :-------------------------:|:-------------------------:
 ![](https://github.com/rdcolema/keras-neural-style-transfer/blob/master/examples/style_images/fire.jpg)  |  ![](https://media.giphy.com/media/3oriNKT125H9nllol2/source.gif)
 ![](https://github.com/rdcolema/keras-neural-style-transfer/blob/master/examples/style_images/kandinsky.jpg)  |  ![](https://media.giphy.com/media/3o7TKO1r6OdGpZz4m4/source.gif)
-
-
-<h3>TODO:</h3>
-- update for compatibility with Keras V2
